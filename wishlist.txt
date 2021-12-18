@@ -22,3 +22,4 @@ dimwishlist:item=3849810018&perks=981914802,3032599245,3300816228,960810156,1154
 //notes: Bob (M+KB / PvP): "Good balance between aim assist with moving target and rangefinder, with the flinch of high caliber" Recommended MW: Range or Handling.|tags:mkb,pvp 
 dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697220197 
 
+gfdhfgh
